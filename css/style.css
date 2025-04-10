@@ -1,0 +1,40 @@
+h1{
+    color: darkolivegreen;
+    background-color: antiquewhite;
+    text-align: center;
+}
+p{
+    color: darkolivegreen;
+    background-color: antiquewhite;
+}
+#BahagiaSelalu {
+    color: antiquewhite;
+    background-color: darkgreen;
+}
+.warnasatu{
+    color: coral;
+    background-color: bisque;
+}
+.warnadua{
+    color: crimson;
+    background-color: antiquewhite;
+}
+.warnatiga{
+    color: darkgoldenrod;
+    background-color: black;
+}
+#kotak-satu {
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+}
+#kotak-dua {
+    height: 100px;
+    width: 400px;
+    background-color: brown;
+} 
+#kotak-tiga {
+    height: 100px;
+    width: 600px;
+    background-color: chartreuse;
+}
