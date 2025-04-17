@@ -38,3 +38,31 @@ p{
     width: 600px;
     background-color: chartreuse;
 }
+#bikinbg {
+    width: 500px;
+    height: 200px;
+    background-color: burlywood;
+    color: ghostwhite;
+    background-image: url("../css/images/senja\ wdd.jpg");
+    background-size: cover;
+    border-radius: 20px;
+  
+}
+#bikinbg h2{
+    text-align: center;
+    padding-top: 80px;
+}
+#bikinpattern h2{
+    width: 500px;
+    height: 200px;
+    background-color: burlywood;
+    color: ghostwhite;
+    background-image: url("../css/images/pattern\ wdd.jpg");
+    border-radius: 20px;
+    background-repeat:repeat-x;
+}
+#bikin pattern h2{
+    text-align: center;
+    padding-top: 80px;
+}    
+
